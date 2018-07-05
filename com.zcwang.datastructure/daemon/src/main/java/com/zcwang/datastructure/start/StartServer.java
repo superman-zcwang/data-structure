@@ -18,5 +18,6 @@ public final class StartServer {
     public static void main(final String[] args) {
         new ClassPathXmlApplicationContext("classpath*:/config/**/*applicationContext*.xml");
 
+        LOGGER.info("hello word!");
     }
 }
