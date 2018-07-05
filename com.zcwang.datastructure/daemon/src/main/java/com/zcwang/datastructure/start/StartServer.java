@@ -19,5 +19,6 @@ public final class StartServer {
         new ClassPathXmlApplicationContext("classpath*:/config/**/*applicationContext*.xml");
 
         LOGGER.info("hello word!");
+		LOGGER.info("这个感觉so cool");
     }
 }
