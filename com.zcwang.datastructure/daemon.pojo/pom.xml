@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+    <artifactId>com.zcwang.datastructure</artifactId>
+    <groupId>com.zcwang</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+    <groupId>com.zcwang</groupId>
+    <artifactId>com.zcwang.daemon.pojo</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+
+    <name>com.zcwang.daemon.pojo</name>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.4</version>
+        </dependency>
+        <dependency>
+            <groupId>com.wisdombud.dictionary</groupId>
+            <artifactId>com.wisdombud.dictionary.constants</artifactId>
+            <version>0.0.4-SNAPSHOT</version>
+        </dependency>
+
+
+    </dependencies>
+</project>
