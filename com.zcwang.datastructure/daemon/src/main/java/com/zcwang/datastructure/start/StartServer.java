@@ -1,12 +1,8 @@
-package $
+package com.zcwang.datastructure.start;
 
-{package}.start;
-
-    import com.wisdombud.core.helper.ApplicationContextHelper;
-    import org.slf4j.Logger;
-    import org.slf4j.LoggerFactory;
-    import org.springframework.beans.BeanUtils;
-    import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * 功能 :
