@@ -20,5 +20,6 @@ public final class StartServer {
 
         LOGGER.info("hello word!");
 		LOGGER.info("这个感觉so cool");
+		LOGGER.info("成功");
     }
 }
